@@ -2430,3 +2430,147 @@
 2025-06-18 16:12:26,059 - INFO - Added observer: LoggingObserver
 2025-06-18 16:12:26,059 - INFO - Added observer: AutoSaveObserver
 2025-06-18 16:12:26,060 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:22:32,446 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:22:32,449 - INFO - Loaded 2 calculations from history
+2025-06-18 16:22:32,449 - INFO - Calculator initialized with configuration
+2025-06-18 16:22:32,449 - INFO - Added observer: LoggingObserver
+2025-06-18 16:22:32,449 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:22:34,651 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,617 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,619 - INFO - Loaded 2 calculations from history
+2025-06-18 16:27:45,619 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,619 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,619 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,620 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,621 - INFO - Loaded 2 calculations from history
+2025-06-18 16:27:45,621 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,621 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,621 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,623 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,624 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,625 - INFO - Loaded 2 calculations from history
+2025-06-18 16:27:45,625 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,625 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,625 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,625 - INFO - Set operation: Addition
+2025-06-18 16:27:45,625 - INFO - Calculation performed: Addition (14, 21) = 35
+2025-06-18 16:27:45,626 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,626 - INFO - History auto-saved
+2025-06-18 16:27:45,627 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,631 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,632 - INFO - Loaded 3 calculations from history
+2025-06-18 16:27:45,632 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,632 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,632 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,633 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,634 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,635 - INFO - Loaded 3 calculations from history
+2025-06-18 16:27:45,635 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,635 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,635 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,637 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,637 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,637 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,637 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,638 - INFO - Empty history saved
+2025-06-18 16:27:45,639 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,640 - INFO - Loaded empty history file
+2025-06-18 16:27:45,640 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,640 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,640 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,640 - INFO - Set operation: Addition
+2025-06-18 16:27:45,641 - INFO - Calculation performed: Addition (1E+2, 2.5E+2) = 3.5E+2
+2025-06-18 16:27:45,642 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,642 - INFO - History auto-saved
+2025-06-18 16:27:45,642 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,644 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,645 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,645 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,645 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,645 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,646 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,647 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,647 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,648 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,648 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,648 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,648 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,649 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,651 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,651 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,651 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,651 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,651 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,652 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,653 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,653 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,653 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,653 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,654 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,656 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,657 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,657 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,657 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,657 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,658 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,659 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,660 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,660 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,660 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,660 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,661 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,662 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,663 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,663 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,663 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,663 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,663 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,664 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,665 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,665 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,665 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,665 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,666 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,667 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,668 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,668 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,668 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,668 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,669 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,670 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,671 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,671 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,671 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,671 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,673 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,673 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,673 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,673 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,673 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,699 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,701 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,701 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,701 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,701 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,702 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,703 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,703 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,703 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,703 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,704 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,706 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,707 - INFO - Loaded 1 calculations from history
+2025-06-18 16:27:45,707 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,707 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,707 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,707 - INFO - Set operation: Addition
+2025-06-18 16:27:45,707 - INFO - Calculation performed: Addition (1E+2, 2.5E+2) = 3.5E+2
+2025-06-18 16:27:45,708 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,708 - INFO - History auto-saved
+2025-06-18 16:27:45,708 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
+2025-06-18 16:27:45,710 - INFO - Logging initialized at: /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/logs/calculator.log
+2025-06-18 16:27:45,711 - INFO - Loaded 2 calculations from history
+2025-06-18 16:27:45,711 - INFO - Calculator initialized with configuration
+2025-06-18 16:27:45,711 - INFO - Added observer: LoggingObserver
+2025-06-18 16:27:45,711 - INFO - Added observer: AutoSaveObserver
+2025-06-18 16:27:45,712 - INFO - History saved successfully to /Users/ryanpham/Masters_in_CS/IS601_WebSystemDevelopment/RPModule5_IS601/history/calculator_history.csv
